@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hello. Welcome to Dogyun's github ! 👋🏻
+  Hello. Welcome to Inho's github ! 👋🏻
 </h3>
 
 <p align="center">
@@ -8,7 +8,6 @@
 
 ### Who Am I
 
-- 🌱 I am interested in Generative Models, Diffusion Models, AI for Science.
-
+- 🌱 I am interested in Generative Models, Diffusion Models, Conditional Generation and AI for Science.
 
 <br/>
